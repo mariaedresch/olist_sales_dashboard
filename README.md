@@ -104,8 +104,11 @@ O dashboard foi desenvolvido no Looker Studio com foco em visão gerencial e lei
 - Faturamento por Categoria  
 
 📄 Visualização do dashboard:  
-👉 [Visualizar Dashboard Executivo (PDF)](dashboard/dashboard_olist.pdf)
+🌐 Dashboard Interativo (Looker Studio):
+👉 [Acessar Dashboard Online](https://lookerstudio.google.com/reporting/03da6c27-58d8-4c10-8877-a91ee1d39aa8)
 
+📄 Versão estática em PDF:
+👉 [Visualizar Dashboard Executivo (PDF)](dashboard/dashboard_olist.pdf)
 ---
 
 ## 🧠 Principais Insights Estratégicos
